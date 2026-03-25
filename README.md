@@ -52,3 +52,21 @@ A comprehensive time-series analysis and forecasting project for Indian energy c
 ---
 
 ## 🏗️ Project Structure
+energy-consumption-forecaster/
+│
+├── energy_forecaster.ipynb # Complete analysis notebook
+├── README.md # Project documentation
+├── requirements.txt # Python dependencies
+│
+├── images/ # Visualizations
+│ ├── daily_pattern.png
+│ ├── weekly_pattern.png
+│ ├── seasonal_pattern.png
+│ ├── heatmap.png
+│ └── model_comparison.png
+│
+├── results/ # Output files
+│ └── model_performance.csv
+│
+└── data/ # Dataset (link only)
+└── README.md
