@@ -70,3 +70,23 @@ energy-consumption-forecaster/
 │
 └── data/ # Dataset (link only)
 └── README.md
+
+## 📊 Visualizations
+
+### Daily Pattern
+![Daily Pattern](images/daily_pattern.png)
+
+### Weekday vs Weekend
+![Weekday vs Weekend](images/weekday_vs_weekend.png)
+
+### Monthly Pattern
+![Monthly Pattern](images/monthly_pattern.png)
+
+### Yearly Trend
+![Yearly Trend](images/yearly_trend.png)
+
+### Heatmap
+![Heatmap](images/heatmap.png)
+
+### Model Comparison
+![Model Comparison](images/model_comparison.png)
