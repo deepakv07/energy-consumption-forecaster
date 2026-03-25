@@ -86,7 +86,7 @@ energy-consumption-forecaster/
 ![Yearly Trend](yearly_trend.png)
 
 ### Heatmap
-![Heatmap](images/heatmap.png)
+![Heatmap](heatmap.png)
 
 ### Model Comparison
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](model_comparison.png)
