@@ -77,13 +77,13 @@ energy-consumption-forecaster/
 ![Daily Pattern](daily_pattern.png)
 
 ### Weekday vs Weekend
-![Weekday vs Weekend](images/weekday_vs_weekend.png)
+![Weekday vs Weekend](weekday_vs_weekend.png)
 
 ### Monthly Pattern
-![Monthly Pattern](images/monthly_pattern.png)
+![Monthly Pattern](monthly_pattern.png)
 
 ### Yearly Trend
-![Yearly Trend](images/yearly_trend.png)
+![Yearly Trend](yearly_trend.png)
 
 ### Heatmap
 ![Heatmap](images/heatmap.png)
