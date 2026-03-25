@@ -74,7 +74,7 @@ energy-consumption-forecaster/
 ## 📊 Visualizations
 
 ### Daily Pattern
-![Daily Pattern](images/daily_pattern.png)
+![Daily Pattern](daily_pattern.png)
 
 ### Weekday vs Weekend
 ![Weekday vs Weekend](images/weekday_vs_weekend.png)
